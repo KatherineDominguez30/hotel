@@ -5,13 +5,6 @@
 
 </p>
 
----
-##  Primeiros Passos:
-
-#### 🔹 Marque esse projeto com uma ⭐
-#### 🔹 Siga as orientações do que temos neste repositório 📚
-#### 🔹 Visite a página do desafio clicando aqui! [Link do Challenge](https://www.alura.com.br/challenges/oracle-one-java) 📃 
-</br>
 
 ## 🖥️ Tecnologias Utilizadas:
 
